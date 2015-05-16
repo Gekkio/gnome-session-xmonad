@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-0utopic1) utopic; urgency=medium
+
+  * Initial release for Utopic
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Sat, 16 May 2015 21:27:44 +0300
+
 gnome-session-xmonad (1.0-0trusty1) trusty; urgency=medium
 
   * Initial release for Trusty
