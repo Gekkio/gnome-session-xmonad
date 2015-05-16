@@ -5,5 +5,5 @@ Exec=gnome-session-xmonad
 TryExec=gnome-session-xmonad
 Icon=
 Type=Application
-X-LightDM-DesktopName=Unity
-X-Ubuntu-Gettext-Domain=gnome-panel-3.0
+DesktopNames=GNOME-Flashback;Unity;
+X-Ubuntu-Gettext-Domain=gnome-flashback

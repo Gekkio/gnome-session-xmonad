@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-0vivid1) vivid; urgency=medium
+
+  * Initial release for Vivid
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Sat, 16 May 2015 21:29:58 +0300
+
 gnome-session-xmonad (1.0-0utopic1) utopic; urgency=medium
 
   * Initial release for Utopic
