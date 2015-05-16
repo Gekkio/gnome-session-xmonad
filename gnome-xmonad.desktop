@@ -5,4 +5,5 @@ Exec=gnome-session-xmonad
 TryExec=gnome-session-xmonad
 Icon=
 Type=Application
-X-Ubuntu-Gettext-Domain=gnome-session-3.0
+X-LightDM-DesktopName=Unity
+X-Ubuntu-Gettext-Domain=gnome-panel-3.0

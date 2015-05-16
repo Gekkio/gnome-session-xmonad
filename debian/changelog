@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-0trusty1) trusty; urgency=medium
+
+  * Initial release for Trusty
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Sat, 16 May 2015 21:18:31 +0300
+
 gnome-session-xmonad (1.0-0precise1) precise; urgency=medium
 
   * Initial release for Precise

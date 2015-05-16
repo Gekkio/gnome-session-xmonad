@@ -8,7 +8,7 @@ Homepage: http://github.com/Gekkio/gnome-session-xmonad
 
 Package: gnome-session-xmonad
 Architecture: all
-Depends: gnome-session-fallback,
+Depends: gnome-session-flashback,
          xmonad (>= 0.11-9),
          ${misc:Depends}
 Description: GNOME Session Manager - XMonad session
