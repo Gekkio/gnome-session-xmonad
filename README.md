@@ -31,3 +31,4 @@ These Ubuntu versions are supported at the moment:
 + 14.04 Trusty (LTS)
 + 14.10 Utopic
 + 15.04 Vivid
++ 15.10 Wily
