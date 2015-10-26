@@ -1,2 +1,2 @@
 #!/bin/sh
-exec gnome-session --session=gnome-xmonad "$@"
+exec gnome-session --session=gnome-xmonad --disable-acceleration-check "$@"
