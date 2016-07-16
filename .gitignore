@@ -1,5 +1,6 @@
 *.swp
 *~
+debian/debhelper-build-stamp
 debian/files
 debian/gnome-session-xmonad/
 debian/gnome-session-xmonad.debhelper.log

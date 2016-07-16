@@ -1,3 +1,12 @@
+gnome-session-xmonad (1.0-1xenial1) xenial; urgency=medium
+
+  * Make sure gnome-xmonad is listed in /etc/upstart-xsessions. Current Ubuntu
+    scripts /etc/X11/Xsession.d check this, and the session does not work
+    reliably without it
+  * Depend on upstart to ensure /etc/upstart-xsessions exists
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Sat, 16 Jul 2016 14:50:33 +0300
+
 gnome-session-xmonad (1.0-0xenial1) xenial; urgency=medium
 
   * Initial release for Xenial
