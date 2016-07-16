@@ -2,7 +2,7 @@ gnome-session-xmonad
 ====================
 
 This Ubuntu package contains session files for Gnome + XMonad.  The latest
-xmonad package in Debian/Ubuntu no longer has such session files, so I'm
+xmonad package in Debian/Ubuntu no longer has working session files, so I'm
 maintaining them in this repository. The sessions are simply copies of
 metacity-based sessions from gnome-session-flashback/gnome-session-fallback
 packages with metacity replaced with xmonad.
@@ -21,6 +21,20 @@ Quick installation
     sudo add-apt-repository ppa:gekkio/xmonad
     sudo apt-get update
     sudo apt-get install gnome-session-xmonad
+
+This installs the **GNOME + XMonad** session, which can be selected from the
+login screen. Make sure you select the right one, because the list probably has
+other xmonad sessions as well.
+
+These xmonad sessions are unrelated to this package, and are not guaranteed
+to work:
+
+* GNOME Flashback (Xmonad)
+* XMonad
+
+Your xmonad configuration must have the necessary gnome hooks in place.
+In practice things work perfectly if you are using `gnomeConfig` properly in
+your configuration.
 
 Supported Ubuntu versions
 -------------------------
