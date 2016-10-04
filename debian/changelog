@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-1yakkety1) yakkety; urgency=medium
+
+  * Initial release for Yakkety
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Wed, 05 Oct 2016 00:39:47 +0300
+
 gnome-session-xmonad (1.0-1xenial1) xenial; urgency=medium
 
   * Make sure gnome-xmonad is listed in /etc/upstart-xsessions. Current Ubuntu
