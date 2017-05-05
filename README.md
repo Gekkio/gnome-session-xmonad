@@ -45,3 +45,4 @@ These Ubuntu versions are supported at the moment:
 + 14.04 Trusty (LTS)
 + 16.04 Xenial (LTS)
 + 16.10 Yakkety
++ 17.04 Zesty

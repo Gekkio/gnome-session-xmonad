@@ -1,9 +1,8 @@
 [Desktop Entry]
 Name=GNOME + XMonad
 Comment=This session logs you into GNOME + XMonad
-Exec=gnome-session-xmonad
-TryExec=gnome-session-xmonad
-Icon=
+Exec=/usr/lib/gnome-session/run-systemd-session gnome-session-flashback.target
+TryExec=xmonad
 Type=Application
-DesktopNames=GNOME-Flashback;Unity;
+DesktopNames=GNOME-Flashback;GNOME;
 X-Ubuntu-Gettext-Domain=gnome-flashback
