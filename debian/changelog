@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-1artful1) artful; urgency=medium
+
+  * Initial release for Artful
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Wed, 25 Oct 2017 23:09:35 +0300
+
 gnome-session-xmonad (1.0-1zesty1) zesty; urgency=medium
 
   * Initial release for Zesty

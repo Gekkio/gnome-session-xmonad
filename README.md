@@ -44,5 +44,5 @@ These Ubuntu versions are supported at the moment:
 + 12.04 Precise (LTS)
 + 14.04 Trusty (LTS)
 + 16.04 Xenial (LTS)
-+ 16.10 Yakkety
 + 17.04 Zesty
++ 17.10 Artful
