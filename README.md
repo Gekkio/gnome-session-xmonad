@@ -41,8 +41,7 @@ Supported Ubuntu versions
 
 These Ubuntu versions are supported at the moment:
 
-+ 12.04 Precise (LTS)
 + 14.04 Trusty (LTS)
 + 16.04 Xenial (LTS)
-+ 17.04 Zesty
 + 17.10 Artful
++ 18.04 Bionic (LTS)

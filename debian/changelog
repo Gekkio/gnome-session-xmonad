@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2bionic1) bionic; urgency=medium
+
+  * Initial release for Bionic
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Wed, 25 Apr 2018 13:26:40 +0300
+
 gnome-session-xmonad (1.0-2artful1) artful; urgency=medium
 
   * Version bump to ensure artful is not considered a downgrade from zesty
