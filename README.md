@@ -43,5 +43,5 @@ These Ubuntu versions are supported at the moment:
 
 + 14.04 Trusty (LTS)
 + 16.04 Xenial (LTS)
-+ 17.10 Artful
 + 18.04 Bionic (LTS)
++ 18.10 Cosmic

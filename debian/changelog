@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2cosmic1) cosmic; urgency=medium
+
+  * Initial release for Cosmic
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Thu, 18 Oct 2018 11:48:11 +0300
+
 gnome-session-xmonad (1.0-2bionic1) bionic; urgency=medium
 
   * Initial release for Bionic
