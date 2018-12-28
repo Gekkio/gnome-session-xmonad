@@ -36,6 +36,25 @@ Your xmonad configuration must have the necessary gnome hooks in place.
 In practice things work perfectly if you are using `gnomeConfig` properly in
 your configuration.
 
+Minimal installation (doesn't install GHC)
+------------------------------------------
+
+Like the [Quick Installation](#quick-installation) above, except we avoid
+bringing in Ubuntu's GHC ecosystem:
+
+    sudo add-apt-repository ppa:gekkio/xmonad
+    sudo apt-get update
+    sudo apt-get install --no-install-recommends gnome-session-xmonad
+
+To be able to compile your `~/.xmonad/xmonad.hs`, you'll probably also want
+to install the X11 packages specified in the 
+[Xmonad README](https://github.com/xmonad/xmonad/blob/master/README.md#building):
+
+    sudo apt-get install libx11-dev libxinerama-dev libxext-dev libxft-dev libxrandr-dev libxss-dev
+
+This minimal installation assumes you already have GHC installed by some
+non-Apt means, e.g. via Stack or a http://haskell.org/ghc tarball.
+
 Supported Ubuntu versions
 -------------------------
 
