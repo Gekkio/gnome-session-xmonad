@@ -11,4 +11,5 @@ Architecture: all
 Depends: gnome-session-flashback,
          xmonad (>= 0.11-9),
          ${misc:Depends}
+Recommends: libghc-xmonad-contrib-dev
 Description: GNOME Session Manager - XMonad session
