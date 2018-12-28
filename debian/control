@@ -10,6 +10,6 @@ Package: gnome-session-xmonad
 Architecture: all
 Depends: gnome-session-flashback,
          xmonad (>= 0.11-9),
-         libghc-xmonad-contrib-dev (>= 0.11.3-3),
          ${misc:Depends}
+Recommends: libghc-xmonad-contrib-dev (>= 0.11.3-3)
 Description: GNOME Session Manager - XMonad session
