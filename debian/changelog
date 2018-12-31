@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2cosmic2) cosmic; urgency=medium
+
+  * Make libghc-xmonad-contrib-dev a recommended dependency
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Mon, 31 Dec 2018 11:23:28 +0200
+
 gnome-session-xmonad (1.0-2cosmic1) cosmic; urgency=medium
 
   * Initial release for Cosmic
