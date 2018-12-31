@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2bionic2) bionic; urgency=medium
+
+  * Make libghc-xmonad-contrib-dev a recommended dependency
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Mon, 31 Dec 2018 11:25:32 +0200
+
 gnome-session-xmonad (1.0-2bionic1) bionic; urgency=medium
 
   * Initial release for Bionic
