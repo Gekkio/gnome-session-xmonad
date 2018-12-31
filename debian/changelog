@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-1xenial2) xenial; urgency=medium
+
+  * Make libghc-xmonad-contrib-dev a recommended dependency
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Mon, 31 Dec 2018 11:27:36 +0200
+
 gnome-session-xmonad (1.0-1xenial1) xenial; urgency=medium
 
   * Make sure gnome-xmonad is listed in /etc/upstart-xsessions. Current Ubuntu
