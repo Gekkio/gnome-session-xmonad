@@ -64,3 +64,4 @@ These Ubuntu versions are supported at the moment:
 + 16.04 Xenial (LTS)
 + 18.04 Bionic (LTS)
 + 18.10 Cosmic
++ 19.04 Disco
