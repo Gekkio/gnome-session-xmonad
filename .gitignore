@@ -5,3 +5,4 @@ debian/files
 debian/gnome-session-xmonad/
 debian/gnome-session-xmonad.debhelper.log
 debian/gnome-session-xmonad.substvars
+.debhelper/

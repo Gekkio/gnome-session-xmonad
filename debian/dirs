@@ -1,5 +1,9 @@
 usr
 usr/bin
+usr/lib
+usr/lib/gnome-flashback
+usr/lib/systemd
+usr/lib/systemd/user
 usr/share
 usr/share/gnome-session
 usr/share/gnome-session/sessions

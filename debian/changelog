@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2eoan1) eoan; urgency=medium
+
+  * Initial release for Eoan
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Thu, 24 Oct 2019 20:58:59 +0300
+
 gnome-session-xmonad (1.0-2disco1) disco; urgency=medium
 
   * Initial release for Disco
