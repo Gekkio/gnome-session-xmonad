@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2focal1) focal; urgency=medium
+
+  * Initial release for Focal
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Thu, 23 Apr 2020 23:40:59 +0300
+
 gnome-session-xmonad (1.0-2eoan1) eoan; urgency=medium
 
   * Initial release for Eoan
