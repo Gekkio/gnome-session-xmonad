@@ -60,8 +60,7 @@ Supported Ubuntu versions
 
 These Ubuntu versions are supported at the moment:
 
-+ 14.04 Trusty (LTS)
 + 16.04 Xenial (LTS)
 + 18.04 Bionic (LTS)
-+ 19.10 Eoan
 + 20.04 Focal (LTS)
++ 20.10 Groovy

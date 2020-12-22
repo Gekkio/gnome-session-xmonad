@@ -1,9 +1,10 @@
 usr
 usr/bin
 usr/lib
-usr/lib/gnome-flashback
 usr/lib/systemd
 usr/lib/systemd/user
+usr/lib/systemd/user/gnome-session@gnome-xmonad.target.d
+usr/libexec
 usr/share
 usr/share/gnome-session
 usr/share/gnome-session/sessions

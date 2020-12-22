@@ -1,4 +1,4 @@
-gnome-xmonad /usr/lib/gnome-flashback
-gnome-session-x11@gnome-xmonad.target /usr/lib/systemd/user
+gnome-xmonad /usr/libexec
+session.conf /usr/lib/systemd/user/gnome-session@gnome-xmonad.target.d
 gnome-xmonad.session /usr/share/gnome-session/sessions
 gnome-xmonad.desktop /usr/share/xsessions
