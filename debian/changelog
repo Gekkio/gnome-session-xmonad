@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2hirsute1) hirsute; urgency=medium
+
+  * Initial release for Hirsute
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Wed, 14 Jul 2021 14:35:38 +0300
+
 gnome-session-xmonad (1.0-2groovy1) groovy; urgency=medium
 
   * Initial release for Groovy
