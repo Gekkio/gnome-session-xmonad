@@ -34,7 +34,8 @@ to work:
 
 Your xmonad configuration must have the necessary gnome hooks in place.
 In practice things work perfectly if you are using `gnomeConfig` properly in
-your configuration.
+your configuration, as documented
+[on Hackage](https://hackage.haskell.org/package/xmonad-contrib-0.10/docs/XMonad-Config-Gnome.html).
 
 Minimal installation (doesn't install GHC)
 ------------------------------------------
