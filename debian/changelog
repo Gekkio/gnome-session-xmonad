@@ -1,3 +1,9 @@
+gnome-session-xmonad (1.0-2impish1) impish; urgency=medium
+
+  * Initial release for Impish
+
+ -- Joonas Javanainen <joonas.javanainen@gmail.com>  Tue, 07 Dec 2021 23:09:25 +0200
+
 gnome-session-xmonad (1.0-2hirsute1) hirsute; urgency=medium
 
   * Initial release for Hirsute

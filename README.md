@@ -63,5 +63,5 @@ These Ubuntu versions are supported at the moment:
 
 + 18.04 Bionic (LTS)
 + 20.04 Focal (LTS)
-+ 20.10 Groovy
 + 21.04 Hirsute
++ 21.10 Impish
