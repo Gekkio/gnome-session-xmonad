@@ -15,6 +15,31 @@ installation guide below:
 
 https://launchpad.net/~gekkio/+archive/ubuntu/xmonad
 
+Update 12/2022: I've switched to Pop!_OS and its tiling window manager, and have no plans to update this repository/package anymore!
+-
+
+So long, and thanks for all the fish :)
+
+If you need this functionality, you can make the necessary files yourself. At
+the time of writing this (12/2022), the necessary steps are:
+
+1. Install `gnome-session-flashback` package so you get the necessary
+   configuration files for `metacity` (the old gnome window manager)
+2. Make copies of all relevant `metacity`-based session configuration files and replace
+   `metacity` with `xmonad` in them. This includes at least the following files:
+
+    - `/usr/libexec/gnome-flashback-metacity`
+    - `/usr/lib/systemd/user/gnome-session@gnome-flashback-metacity.target.d/session.conf`
+    - `/usr/share/gnome-session/sessions/gnome-flashback-metacity.session`
+    - `/usr/share/xsessions/gnome-flashback-metacity.desktop`
+3. For most Ubuntu releases this has been enough. If the session still doesn't
+   work, you might need to update some common configuration file too instead of
+   just adding new files. For example,
+   [see this commit](https://github.com/Gekkio/gnome-session-xmonad/commit/78354732899955ca213c09f176ca2bf3097186d5)
+   for a fix that was necessary for Ubuntu Xenial. I can't predict what
+   problems future Ubuntu versions will have, but it might be something
+   similar.
+
 Quick installation
 ------------------
 
